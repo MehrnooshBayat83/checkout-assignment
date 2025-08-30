@@ -52,11 +52,11 @@ else {
       break;
   }
   //8
-  console.log(`Order ID: ${orderId}`);
-  console.log(`Product: ${productName}`);
-  console.log(`Quantity: ${quantity}`);
-  console.log(`Total: $${totalPrice}`);
-  console.log(`Shipping: $${shippingCost}`);
-  console.log(`Payment: ${message}`);
-  console.log(`Status: Order confirmed!`);
+  console.log(`Order ID: ${orderId}
+  Product: ${productName}
+  Quantity: ${quantity}
+  Total: $${totalPrice}
+  Shipping: $${shippingCost}
+  Payment: ${message}
+  Status: Order confirmed!`);
 }
